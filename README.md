@@ -1,4 +1,4 @@
-# ChargeWatcher v1.0
+# ChargeWatcher
 
 ChargeWatcher is a tiny lightweight Windows utility that keeps track of your AC adapter. Plug in or unplug your charger, and it plays the classic Windows hardware sound, just like when you connect a USB device. It sits quietly in your system tray and lets you toggle whether it runs at startup.
 
